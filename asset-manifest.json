@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-map-project/static/css/main.d069b8e6.css",
+    "main.js": "/google-map-project/static/js/main.5afac306.js",
+    "static/js/787.b72f690d.chunk.js": "/google-map-project/static/js/787.b72f690d.chunk.js",
+    "index.html": "/google-map-project/index.html",
+    "main.d069b8e6.css.map": "/google-map-project/static/css/main.d069b8e6.css.map",
+    "main.5afac306.js.map": "/google-map-project/static/js/main.5afac306.js.map",
+    "787.b72f690d.chunk.js.map": "/google-map-project/static/js/787.b72f690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d069b8e6.css",
+    "static/js/main.5afac306.js"
+  ]
+}
